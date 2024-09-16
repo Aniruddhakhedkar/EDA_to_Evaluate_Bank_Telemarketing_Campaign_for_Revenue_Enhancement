@@ -80,5 +80,5 @@ The campaigner might not be aware about the customers that are expected to open 
 
 2. Improve the communication channel (Digital channels & Employee training).
 
-3. Remapping the product’s market relevance, as for some of the ideal potential customers the offered product is not catering their new needs. [To map potential change occurred in customers’ requirements]
+3. Remapping the product’s market relevance, as for some of the ideal potential customers the offered product is not catering their new needs. [To map potential change occurred in customers’ requirements].
 
